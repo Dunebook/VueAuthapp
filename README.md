@@ -4,7 +4,7 @@ Setting up Vuejs Authentication using Expressjs, MongoDB and JWT.
 Code Source for tutorial on  CodeSource.io 
 
 
-You can read Complete Tutorial Here - https://codesource.io/setting-up-vuejs-authentication-using-expressjs-mongodb-and-jwt
+You can read Complete Tutorial Here - https://codesource.io/setting-up-vue-authentication-using-expressjs-mongodb-and-jwt/
 
 ## Learning prerequisites
 Basic familiarity with Javascript.
